@@ -1,0 +1,19 @@
+section{
+    width: 50vh;
+    background-color: antiquewhite;
+    border: 2px solid gray;
+    border-radius: 30px;
+    padding: 20px;
+}
+h3{
+    font-size: 2.5em;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(43, 238, 43);
+    border-radius: 20px;
+}
+.foot{
+    font-weight: 900;
+}
