@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(0, 170, 255);
+}
+.contenedor{
+    width: 400px;
+    height: 150px;
+    background-color: antiquewhite;
+    margin: 50px auto;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+.barra{
+    padding-top: 25px;
+    display:flex;
+    justify-content: space-around;
+}
+button{
+    margin-top: 20px;
+    align-items: center;
+    background-color: fuchsia;
+    width: 150px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.box{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+}
+.box2{
+    background-color: rgb(147, 147, 243);
+}

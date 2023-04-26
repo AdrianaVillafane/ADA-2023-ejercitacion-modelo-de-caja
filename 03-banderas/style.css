@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bandera-argentina {
+  margin: 10px auto;
+  width: 300px;
+  border: 2px solid black;
+}
+.franja-celeste {
+  width: 300px;
+  height: 80px;
+  background-color: rgb(134, 134, 207);
+}
+
+.franja-blanca {
+  width: 300px;
+  background-color: white;
+  height: 80px;
+}
+.bandera-colombia {
+  width: 300px;
+  border: 2px solid black;
+  margin: 10px auto;
+
+}
+.franja-amarilla{
+    width: 300px;
+    height: 80px;
+    background-color: yellow;
+}
+.franja-azul{
+    width: 300px;
+    height: 70px;
+background-color: blue;
+
+}
+.franja-roja{
+    width: 300px;
+    height: 70px;
+    background-color: red;
+}
+.bandera-españa{
+    width: 300px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+.bandera-alemania{
+    width: 300px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+.franja-negra{
+    width: 300px;
+height: 70px;
+background-color: black;
+
+}
+.bandera-bolivia{
+    width: 300px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+.franja-verde{
+    width: 300px;
+    height: 70px;
+    background-color: green;
+}
+.bandera-venezuela{
+    width: 300px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+p{
+    text-align: center;
+}
